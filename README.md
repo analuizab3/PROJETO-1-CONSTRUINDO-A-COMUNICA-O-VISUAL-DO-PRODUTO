@@ -3,7 +3,7 @@
 Cybercore é uma empresa inovadora do setor de tecnologia, especializada em soluções de inteligência artificial, automação e desenvolvimento de software. Nosso foco é criar ferramentas que conectam o futuro ao presente.
 
  Descrição do Logo:
-O logo da CyberCore é composto por três elementos principais:
+O logo da CyberCore é composto por 2 elementos principais:
 
 Símbolo Geométrico Estilizado (triângulos)
 
